@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(2, 2, 66);
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: wheat;
+}
+
+nav{
+    display: flex;
+}
+
+.navText{
+    margin: auto auto;
+}
+
+.navImg{
+    padding: 5px;
+}
