@@ -1,11 +1,12 @@
 body{
-    background-color: rgb(2, 2, 66);
+    background-image: url(pexels-mikebirdy-120049.jpg);
+    background-repeat: no-repeat;
     color: white;
 }
 
 a{
     text-decoration: none;
-    color: wheat;
+    color: white;
 }
 
 nav{
@@ -18,4 +19,6 @@ nav{
 
 .navImg{
     padding: 5px;
+    background: transparent;
+    opacity: 50px;
 }
